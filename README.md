@@ -12,7 +12,7 @@ Graph kernels are kernel methods measuring graph similarity and serve as a stand
 This package has the following requirements:
 
 * `Python 3.6`
-* `Pytorch 0.3.1`
+* `Pytorch 0.4.1`
 * `numpy`
 * `scipy`
 * `networkx`
