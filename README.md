@@ -22,3 +22,11 @@ This package has the following requirements:
 python train.py
 
 ## Citation
+
+@inproceedings{tian2019rethinking,
+  title={Rethinking kernel methods for node representation learning on graphs},
+  author={Tian, Yu and Zhao, Long and Peng, Xi and Metaxas, Dimitris},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={11681--11692},
+  year={2019}
+}
